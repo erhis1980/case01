@@ -1,0 +1,1 @@
+This is to fix bugs found whilst working on the speed feature by developer 1
