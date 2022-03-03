@@ -1,0 +1,1 @@
+This is to fix bugs found on the graphical interface found by developer 3
